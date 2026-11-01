@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Colcon (in case built inside directory)
+build/
+install/
+log/
+
+# Editors & OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
